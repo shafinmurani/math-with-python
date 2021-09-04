@@ -1,5 +1,5 @@
-num1 = int(input("Input the number 1 : "))
-num2 = int(input("Intput the number 2 : "))
+num1 = int(input("Input the first Number : "))
+num2 = int(input("Intput the Second Number: "))
 divident = max(num1,num2)
 divisor = min(num1,num2) 
 x = divident%divisor
